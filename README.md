@@ -15,8 +15,8 @@ It’s designed for cybersecurity students, analysts, and developers who need to
 - 📊 Provides detailed breakdown with risk descriptions and threat summary
 
 ### 🖼️ GUI Interface
-![GUI Home](assets/DeepFileInspector1.png)
-![GUI Result](assets/DeepFileInspector2.png)
+![GUI Home](DeepFileInspector1.png)
+![GUI Result](DeepFileInspector2.png)
 
 ---
 
