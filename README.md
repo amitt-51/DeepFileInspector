@@ -1,4 +1,3 @@
-
 # 🛡️ DeepFileInspector
 
 **DeepFileInspector** is a GUI-based malicious file analyzer that scans files like PDF, DOCX, PPTX, and more to detect embedded threats such as JavaScript, macros, OpenAction triggers, and suspicious payloads.
@@ -14,6 +13,10 @@ It’s designed for cybersecurity students, analysts, and developers who need to
 - 🧬 Analyzes Office documents for VBA macros and hidden payloads
 - 🖥️ Web-based GUI for easy drag-and-drop file uploads and instant result display
 - 📊 Provides detailed breakdown with risk descriptions and threat summary
+
+### 🖼️ GUI Interface
+![GUI Home](assets/DeepFileInspector1.png)
+![GUI Result](assets/DeepFileInspector2.png)
 
 ---
 
@@ -50,22 +53,6 @@ python app.py
 
 Then open your browser and go to:  
 👉 http://localhost:5000
-
----
-
-## 🖼️ GUI Screenshots
-
-### 🏠 GUI Home Interface  
-This is the starting page where you can upload any suspicious file.
-
-![Home](assets/DeepFileInspector1.png)
-
----
-
-### 🧪 Analysis Output  
-This interface displays the full result — threats found, descriptions, and detailed output.
-
-![Result](assets/DeepFileInspector2.png)
 
 ---
 
