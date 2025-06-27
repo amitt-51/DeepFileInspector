@@ -15,7 +15,19 @@ It’s designed for cybersecurity students, analysts, and developers who need to
 - 📊 Provides detailed breakdown with risk descriptions and threat summary
 
 ### 🖼️ GUI Interface
+
+#### 🏠 GUI Home – File Upload Panel  
+This is the homepage where the user uploads any suspicious file (PDF, DOCX, PPTX, etc.) using the intuitive upload form.  
+It’s styled with a dark theme and offers a clean layout for analysis.
+
 ![GUI Home](DeepFileInspector1.png)
+
+---
+
+#### 📊 GUI Analysis Result – Threat Summary Panel  
+Once the file is uploaded, the analyzer runs and displays a detailed result:  
+whether threats were found, how many, and what type. This includes indicators, descriptions, and PDFID/raw output.
+
 ![GUI Result](DeepFileInspector2.png)
 
 ---
