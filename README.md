@@ -13,16 +13,16 @@ It’s designed for cybersecurity students, analysts, and developers who need to
 - 🧬 Analyzes Office documents for VBA macros and hidden payloads
 - 🖥️ Web-based GUI for easy drag-and-drop file uploads and instant result display
 - 📊 Provides detailed breakdown with risk descriptions and threat summary
+  
+---
 
-### 🖼️ GUI Interface
+## 🖼️ GUI Interface
 
 #### 🏠 GUI Home – File Upload Panel  
 This is the homepage where the user uploads any suspicious file (PDF, DOCX, PPTX, etc.) using the intuitive upload form.  
 It’s styled with a dark theme and offers a clean layout for analysis.
 
 ![GUI Home](DeepFileInspector1.png)
-
----
 
 #### 📊 GUI Analysis Result – Threat Summary Panel  
 Once the file is uploaded, the analyzer runs and displays a detailed result:  
